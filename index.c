@@ -5,6 +5,7 @@
 #include <semaphore.h>
 #include <ctype.h>
 #include <unistd.h>
+
 #include <time.h>
 void* student_actions(void* student_id);
 void* ta_actions();
